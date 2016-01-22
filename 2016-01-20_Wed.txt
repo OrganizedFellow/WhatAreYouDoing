@@ -1,0 +1,39 @@
+2016-01-20_Wed_08:22:30     WOOHOO, i found a solution, just use printf and enclose the variables with quotation marks.
+2016-01-20_Wed_08:24:35     sometimes you feel like a nut, sometimes you dont
+2016-01-20_Wed_08:25:03     the tinsy whinsy spider climned up the water spout
+2016-01-20_Wed_08:25:15     down came the ran and washed the spider out
+2016-01-20_Wed_08:33:38     writing bash script WHAT ARE YOU DOING, so far so good!
+2016-01-20_Wed_08:34:27     editing the variables
+2016-01-20_Wed_08:36:21     added variable for the past hour
+2016-01-20_Wed_08:43:58     learning about bash scripting.
+2016-01-20_Wed_08:50:36     going to start working.
+2016-01-20_Wed_09:06:00     going to put file under cronjob
+2016-01-20_Wed_09:09:15		can i make the prompt POP up?
+2016-01-20_Wed_09:10:02		can i make this do a cronjob?
+2016-01-20_Wed_11:34:25		trying to get my cron to pop up window
+2016-01-20_Wed_11:36:04		wwwwwwwwwwwwwwwwwwww
+2016-01-20_Wed_11:36:14		kjhgfds
+2016-01-20_Wed_11:57:46		eating spaghettia
+2016-01-20_Wed_12:31:05		drinking coffee and about to eat some chicken nuggets
+2016-01-20_Wed_12:48:18		cant figure this shit out.
+2016-01-20_Wed_13:15:53     reading stuff on Quora.
+2016-01-20_Wed_13:20:31     still reading things on quora, Whats-at-the-bottom-of-the-Deep-Web
+2016-01-20_Wed_13:25:31     HAPPY IT WORKS, so far its popped up 3 times in perfect function! setting crontab to 10 minutes.
+2016-01-20_Wed_13:32:28		starting on TreeHouse, build a basic php website
+2016-01-20_Wed_13:32:45		i TINK its working now.
+2016-01-20_Wed_13:35:41		starting on treehouse after NOT doing shit for weeks.
+2016-01-20_Wed_13:40:20		reading email from meetup group, smart success business
+2016-01-20_Wed_13:50:16		on phone with EECU to make car payment.
+2016-01-20_Wed_14:00:26		paying car with eecu
+2016-01-20_Wed_14:10:27		paid car, now we owe $456.18 WOOHOO
+2016-01-20_Wed_14:20:28		stomach rumbling. got the poops
+2016-01-20_Wed_14:30:19		started the video for building a basic php website
+2016-01-20_Wed_15:33:26		just got back from picking up girls at school and getting 50 cent sonic corndogs 
+2016-01-20_Wed_16:01:04		helping isabella with her failed math homework.
+2016-01-20_Wed_17:01:17		mom just got home, still doing homework
+2016-01-20_Wed_18:03:13		working on bourbon neat on qwerty.dev so i can continue the PHP course on teamtreehouse
+2016-01-20_Wed_19:04:15		still doing my rspnsive neat grid on qwerty.dev
+2016-01-20_Wed_20:00:16		watching a movie
+2016-01-20_Wed_21:00:25		watching the hateful eight
+2016-01-20_Wed_22:12:07		finished watcing the movie HATEFUL EIGHT, i didnt know it was directed by Quentin Tarantino :D 
+2016-01-20_Wed_23:00:44		fixed the navigation on El Paso . dev from something i learned on TeamTreeHouse by using a IF statement for the class active in the nav link
